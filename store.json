@@ -202,7 +202,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "Design",
     "slug": "/design",
     "resources": [
@@ -293,7 +293,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "Frontend",
     "slug": "/frontend",
     "resources": [
@@ -309,7 +309,7 @@
       },
       {
         "title": "Learn to Code HTML and CSS",
-        "desc": "Learn to Code HTML & CSS is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS. Outlining the fundamentals, this guide works through all common elements of front-end design and development.",
+        "desc": "Learn to Code HTML and CSS is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS. Outlining the fundamentals, this guide works through all common elements of front-end design and development.",
         "url": "https://learn.shayhowe.com/html-css/"
       },
       {
@@ -319,12 +319,12 @@
       },
       {
         "title": "Don't fear the internet",
-        "desc": "Basic HTML & CSS for NON-WEB DESIGNERS",
+        "desc": "Basic HTML and CSS for NON-WEB DESIGNERS",
         "url": "http://www.dontfeartheinternet.com/"
       }
     ]
   },
-  { 
+  {
     "title": "Fullstack",
     "slug": "/fullstack",
     "resources": [
@@ -340,7 +340,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "General",
     "slug": "/general",
     "resources": [
@@ -401,7 +401,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "HTML",
     "slug": "/html",
     "resources": [
@@ -417,7 +417,7 @@
       },
       {
         "title": "Introduction to HTML",
-        "desc": "In just 4 hours, learn the basics of HTML5 and start building & editing web pages.",
+        "desc": "In just 4 hours, learn the basics of HTML5 and start building and editing web pages.",
         "url": "https://www.codecademy.com/learn/learn-html"
       },
       {
@@ -437,7 +437,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "Javascript",
     "slug": "/javascript",
     "resources": [
@@ -503,7 +503,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "PHP",
     "slug": "/php",
     "resources": [
@@ -579,24 +579,69 @@
     "slug": "/python",
     "resources": [
       {
-        "title": "Python 3.7.3 documentation",
-        "desc": "Documentation for all releaases of Python.",
-        "url": "https://docs.python.org/3/"
-      },
-      {
         "title": "The Hitchhiker’s Guide to Python!",
         "desc": "This is a living, breathing guide. This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.",
         "url": "https://docs.python-guide.org/"
       },
       {
-        "title": "Kaggle - Python",
-        "desc": "Learn the most important language for Data Science",
-        "url": "https://www.kaggle.com/learn/python"
+        "title": "pyladies",
+        "desc": "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.",
+        "url": "https://www.pyladies.com/"
       },
       {
-        "title": "Anaconda",
-        "desc": "The World's Most Popular Python/R Data Science Platform",
-        "url": "https://www.anaconda.com/distribution/"
+        "title": "Google's free Python class.",
+        "desc": "This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding. ",
+        "url": "https://developers.google.com/edu/python/"
+      },
+      {
+        "title": "New to Python? Full Stack Python",
+        "desc": "Resources and information to get you started with Python.",
+        "url": "https://www.fullstackpython.com/best-python-resources.html"
+      },
+      {
+        "title": "After Hours Programming",
+        "desc": "Has a great browser Notepad to new users can avoid the complexities of the command prompt. 'If you are a total beginner and you’re looking for the best Python tutorial, this one will help you get started!'",
+        "url": "https://www.afterhoursprogramming.com/tutorial/python/python-overview/"
+      },
+      {
+        "title": "YouTube - Python Data Visualization With Bokeh",
+        "desc": "Great teacher. Tons of other videos about all kinds of coding.",
+        "url": "https://www.youtube.com/watch?v=2TR_6VaVSOs&ab_channel=TraversyMedia"
+      },
+      {
+        "title": "YouTube - Python Face Recognition Tutorial",
+        "desc": "Very interesting tutorial.",
+        "url": "https://www.youtube.com/watch?v=QSTnwsZj2yc&ab_channel=TraversyMedia"
+      },
+      {
+        "title": "YouTube - Intro To Web Scraping With Python",
+        "desc": "One of the most fun things to do in Python.",
+        "url": "https://www.youtube.com/watch?v=4UcqECQe5Kc&ab_channel=TraversyMedia"
+      },
+      {
+        "title": "Python Tutorial for Beginners",
+        "desc": "Great teacher. 121 videos in this series plus much more.",
+        "url": "https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer"
+      },
+      {
+        "title": "Engineer Man - Python",
+        "desc": "YouTube - Python Basics Series",
+        "url": "https://www.youtube.com/watch?v=VQxBd5tLza8&ab_channel=EngineerMan"
+      },
+      {
+        "title": "Build a startup #1",
+        "desc": "Watch me build a real startup with Python and JavaScript",
+        "url": "https://www.youtube.com/watch?v=UyQn0BhVqNU&t=16s&ab_channel=CSDojo"
+      },
+      {
+        "title": "Flask",
+        "desc": "Simple, minimal framework for Python.",
+        "url": "http://flask.pocoo.org/"
+      },
+      {
+        "title": "Django Tutorial",
+        "desc": "Fast, secure, and most popular Python framework.",
+        "url": "https://www.djangoproject.com/start/"
       },
       {
         "title": "Real Python Tutorials",
@@ -614,11 +659,6 @@
         "url": "https://app.pluralsight.com/paths/skills/Python"
       },
       {
-        "title": "Pypi",
-        "desc": "Find, install and publish Python packages with the Python Package Index",
-        "url": "https://pypi.org/"
-      },
-      {
         "title": "Learn Python in y minutes",
         "desc": "A mad dash through everything!",
         "url": "https://learnxinyminutes.com/docs/python/"
@@ -629,24 +669,9 @@
         "url": "https://www.boost.org/doc/libs/1_70_0/libs/python/doc/html/index.html"
       },
       {
-        "title": "MongoDB Python Drivers",
-        "desc": "The database for modern applications",
-        "url": "https://docs.mongodb.com/ecosystem/drivers/python/"
-      },
-      {
         "title": "A Byte of Python",
         "desc": "If you like real books ... A complete set of documentation that closely resembles the typesetting of a real book.",
         "url": "https://python.swaroopch.com/"
-      },
-      {
-        "title": "Requests: HTTP for Humans™",
-        "desc": "Requests is the only Non-GMO HTTP library for Python, safe for human consumption.",
-        "url": "https://2.python-requests.org/en/master/"
-      },
-      {
-        "title": "TensorFlow",
-        "desc": "The core open source library to help you develop and train ML models. TensorFlow is an end-to-end open source platform for machine learning.",
-        "url": "https://www.tensorflow.org/"
       },
       {
         "title": "Think Python",
@@ -664,16 +689,6 @@
         "url": "https://treyhunner.com/2019/05/python-builtins-worth-learning/"
       },
       {
-        "title": "Qt for Python",
-        "desc": "Create User Interfaces with Qt for Python",
-        "url": "https://www.qt.io/qt-for-python"
-      },
-      {
-        "title": "Python fun facts.",
-        "desc": "Python fun facts from JetBrains, maker of the IDE PyCharm",
-        "url": "https://www.jetbrains.com/lp/devecosystem-2019/python/"
-      },
-      {
         "title": "MicroPython",
         "desc": "Using python with microcontrollers.",
         "url": "https://micropython.org/"
@@ -689,24 +704,14 @@
         "url": "https://towardsdatascience.com/tools-to-run-python-on-android-9060663972b4"
       },
       {
-        "title": "QPython",
+        "title": "QPython on Android",
         "desc": "QPython is a script engine which runs Python programs on android devices. It also can help developers develop android applications.",
         "url": "https://www.qpython.com/"
       },
       {
         "title": "Medium - Python on Netflix",
-        "desc": "We wanted to share a sampling of how Python is used at Netflix. ",
+        "desc": "We wanted to share a sampling of how Python is used at Netflix.",
         "url": "https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e"
-      },
-      {
-        "title": "Python Data Science Handbook",
-        "desc": "This is a book about doing data science with Python, which immediately begs the question: what is data science? The free O'Reilly book.",
-        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
-      },
-      {
-        "title": "Data Analysis in Python",
-        "desc": "This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis.",
-        "url": "http://www.data-analysis-in-python.org/"
       },
       {
         "title": "Microsoft - Python",
@@ -714,9 +719,75 @@
         "url": "https://academy.microsoft.com/en-us/professional-program/tracks/data-science/"
       },
       {
+        "title": "Python Pandemonium",
+        "desc": "A place to read and write about all things Python.",
+        "url": "https://medium.com/python-pandemonium/tagged/data-science"
+      }
+    ]
+  },
+  {
+    "title": "Data Science",
+    "slug": "/data science",
+    "resources": [
+      {
+        "title": "Anaconda",
+        "desc": "The World's Most Popular Python/R Data Science Platform",
+        "url": "https://www.anaconda.com/distribution/"
+      },
+      {
+        "title": "Kaggle - Python",
+        "desc": "Learn the most important language for Data Science",
+        "url": "https://www.kaggle.com/learn/python"
+      },
+      {
+        "title": "Towards Data Science",
+        "desc": "Sharing concepts, ideas, and codes. IMO the best Data Science Blog.",
+        "url": "https://towardsdatascience.com/"
+      },
+      {
+        "title": "Pandas for People In A Hurry",
+        "desc": "Pandas is the most popular Python library for data manipulation and data analysis. It is a must know for all data scientists!",
+        "url": "https://towardsdatascience.com/pandas-for-people-in-a-hurry-59d966630ae0"
+      },
+      {
+        "title": "Matplotlib",
+        "desc": "Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.",
+        "url": "https://matplotlib.org/"
+      },
+      {
+        "title": "NumFOCUS",
+        "desc": "From Netflix to NASA, researchers use NumFOCUS sponsored projects to solve the most challenging problems. Explore our open source tools by language, features, or industry.",
+        "url": "https://numfocus.org/sponsored-projects"
+      },
+      {
+        "title": "TensorFlow",
+        "desc": "The core open source library to help you develop and train ML models. TensorFlow is an end-to-end open source platform for machine learning.",
+        "url": "https://www.tensorflow.org/"
+      },
+      {
+        "title": "PySpark",
+        "desc": "Python Programming Guide for the API",
+        "url": "https://spark.apache.org/docs/0.9.1/python-programming-guide.html"
+      },
+      {
         "title": "Towards Data Science - Machine Learning",
         "desc": "An “Equation-to-Code” Machine Learning Project Walk-Through in Python",
         "url": "https://towardsdatascience.com/an-equation-to-code-machine-learning-project-walk-through-in-python-part-1-linear-separable-fd0e19ed2d7"
+      },
+      {
+        "title": "Python Data Science Handbook",
+        "desc": "This is a book about doing data science with Python, which immediately begs the question: what is data science? The free O'Reilly book.",
+        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+      },
+      {
+        "title": "Jupyter",
+        "desc": "The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.",
+        "url": "https://jupyter.org/"
+      },
+      {
+        "title": "Data Analysis in Python",
+        "desc": "This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis.",
+        "url": "http://www.data-analysis-in-python.org/"
       },
       {
         "title": "Big Data Made Simple",
@@ -752,41 +823,6 @@
         "title": "scikit-learn",
         "desc": "Machine Learning in Python",
         "url": "https://scikit-learn.org/stable/"
-      },
-      {
-        "title": "Jupyter",
-        "desc": "The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.",
-        "url": "https://jupyter.org/"
-      },
-      {
-        "title": "Matplotlib",
-        "desc": "Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.",
-        "url": "https://matplotlib.org/"
-      },
-      {
-        "title": "NumFOCUS",
-        "desc": "From Netflix to NASA, researchers use NumFOCUS sponsored projects to solve the most challenging problems. Explore our open source tools by language, features, or industry.",
-        "url": "https://numfocus.org/sponsored-projects"
-      },
-      {
-        "title": "Python Pandemonium",
-        "desc": "A place to read and write about all things Python.",
-        "url": "https://medium.com/python-pandemonium/tagged/data-science"
-      },
-      {
-        "title": "Pandas for People In A Hurry",
-        "desc": "Pandas is the most popular Python library for data manipulation and data analysis. It is a must know for all data scientists!",
-        "url": "https://towardsdatascience.com/pandas-for-people-in-a-hurry-59d966630ae0"
-      },
-      {
-        "title": "PySpark",
-        "desc": "Python Programming Guide for the API",
-        "url": "https://spark.apache.org/docs/0.9.1/python-programming-guide.html"
-      },
-      {
-        "title": "Towards Data Science",
-        "desc": "Sharing concepts, ideas, and codes. IMO the best Data Science Blog.",
-        "url": "https://towardsdatascience.com/"
       },
       {
         "title": "HDF5®",
@@ -876,7 +912,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "Server",
     "slug": "/server",
     "resources": [
@@ -917,7 +953,7 @@
       }
     ]
   },
-  { 
+  {
     "title": "Tools",
     "slug": "/tools",
     "resources": [
