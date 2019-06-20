@@ -84,3 +84,7 @@ dist
 sw.*
 
 .DS_store
+.pre-commit-config.yaml
+.pre-commit-template.yaml
+.eslintrc.json
+.gitignore
