@@ -7,21 +7,24 @@
 </template>
 
 <script>
-import store from '../store.json'
-import Card from '../components/Card'
+import store from "../store.json";
+import Card from "../components/Card";
 
 export default {
-  data () {
+  data() {
     return {
       categoryRouteTitle: this.$route.params.category,
-      categories: store,
-    }
+      categories: store
+    };
   },
   computed: {
-    category() {      
-      return this.categories.find(category => category.title.toLowerCase() === this.categoryRouteTitle.toLowerCase())
+    category() {
+      return this.categories.find(
+        category =>
+          category.title.toLowerCase() === this.categoryRouteTitle.toLowerCase()
+      );
     }
   },
-  components: { Card },
-}
+  components: { Card }
+};
 </script>

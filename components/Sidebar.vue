@@ -6,18 +6,18 @@
 </template>
 
 <script>
-import store from '../store.json'
+import store from "../store.json";
 
 export default {
   data() {
     return {
-      categories: [{ slug: '', title: '' }],
-    }
+      categories: [{ slug: "", title: "" }]
+    };
   },
   created() {
-    this.categories = store.map(({ title, slug }) => ({ title, slug }))
+    this.categories = store.map(({ title, slug }) => ({ title, slug }));
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>

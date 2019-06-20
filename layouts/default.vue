@@ -7,10 +7,10 @@
 </template>
 
 <script>
-import Github from '../components/Github'
-import Logo from '../components/Logo'
-import Search from '../components/Search'
-import Sidebar from '../components/Sidebar'
+import Github from "../components/Github";
+import Logo from "../components/Logo";
+import Search from "../components/Search";
+import Sidebar from "../components/Sidebar";
 
 export default {
   components: {
@@ -19,12 +19,12 @@ export default {
     Search,
     Sidebar
   }
-}
+};
 </script>
 
 
 <style lang="scss">
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,900');
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,900");
 
 body {
   margin: 1rem;
@@ -32,8 +32,8 @@ body {
 }
 
 html {
-  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -59,7 +59,8 @@ a {
   text-decoration: underline;
 }
 
-h1, p {
+h1,
+p {
   color: white;
 }
 
@@ -73,8 +74,8 @@ h1 {
   grid-template-columns: fit-content(200px) auto;
   grid-gap: 1rem;
   grid-template-areas:
-    'logo .'
-    'sidebar content';
+    "logo ."
+    "sidebar content";
 }
 
 .logo {
@@ -94,11 +95,10 @@ h1 {
 }
 
 .cards {
-  display:grid;
-  grid-template-columns: repeat(auto-fill, minmax(15rem,auto));
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, auto));
   grid-gap: 1rem;
 }
-
 
 @media (max-width: 400px) {
   .layout {
@@ -107,12 +107,11 @@ h1 {
     grid-gap: 1rem;
     margin-top: 1rem;
     grid-template-areas:
-      'logo'
-      'sidebar'
-      'content';
+      "logo"
+      "sidebar"
+      "content";
   }
 }
-
 
 // #232331 dark bg
 // #2D3748 ligher cards
@@ -122,16 +121,16 @@ h1 {
 
 <style lang="scss">
 ::-webkit {
-  &-scrollbar{
+  &-scrollbar {
     width: 5px;
     height: 5px;
 
-    &-thumb{
+    &-thumb {
       background: #08e5ff;
     }
 
-    &-track{
-      background:#232331;
+    &-track {
+      background: #232331;
     }
   }
   &-resizer,
@@ -139,5 +138,4 @@ h1 {
     background: #232331;
   }
 }
-
 </style>
