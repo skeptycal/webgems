@@ -4,14 +4,13 @@
 
 <style lang="scss">
 input {
-  padding: .5rem 1.5rem .5rem 1.5rem;
-  border-radius: .3rem;
+  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+  border-radius: 0.3rem;
   background: #eee;
-  font-size:12px;
+  font-size: 12px;
 
   &:focus {
-    outline:none;
+    outline: none;
   }
 }
-
 </style>
