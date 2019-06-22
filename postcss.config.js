@@ -1,7 +1,5 @@
-const join = require('path').join
+const join = require("path").join;
 
 module.exports = {
-  plugins: [
-    require('autoprefixer')
-  ]
-}
+  plugins: [require("autoprefixer")]
+};
